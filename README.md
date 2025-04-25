@@ -1,11 +1,11 @@
 Unich
 JOIN UNICH
-https://unich.com/en/airdrop/sign-up?ref=hnyeoEsQCH
+https://unich.com/en/airdrop/sign-up?ref=sEi0JL0saI
 
-REFERAL CODE=hnyeoEsQCH
+REFERAL CODE=sEi0JL0saI
 
 JOIN OUR TELEGRAM CHANNEL
-https://t.me/DigitalMiners777
+https://t.me/olkascript
 
 TERMUX COMMANDS PASTE THESE COMMANDS ON TERMUX
 pkg update && pkg upgrade -y
